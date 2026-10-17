@@ -1,0 +1,7 @@
+# 模型权重
+best.pt
+ # 原始视频、推理输出视频
+ *.mp4
+ # python缓存
+ __pycache__/
+ *.pyc
